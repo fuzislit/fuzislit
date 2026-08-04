@@ -1,62 +1,76 @@
 # Hi, I'm Fuzail Ali 👋
 
-I'm a Computer Science graduate passionate about software engineering, machine learning, and building practical solutions through technology.
+I'm a Computer Science graduate interested in software engineering, machine learning, and building technology that solves real-world problems.
 
-I enjoy working on projects that combine software development, data analysis, and real-world applications.
+I enjoy developing projects across different areas of computer science, including full-stack applications, data-driven solutions, machine learning systems, and embedded software.
 
-## 🛠️ Technical Skills
 
-**Languages**
 
-* C++
-* Python
-* Java
-* JavaScript / TypeScript
-* SQL
+## 🚀 Projects
 
-**Technologies**
+### 📈 TradeWise — Stock Portfolio Management Application
+
+A full-stack application designed to help users manage and track stock portfolios. The project focuses on building a practical financial application with user data management, portfolio tracking, and market data integration.
+
+**Technologies:**
 
 * Node.js
 * Express.js
-* React
 * PostgreSQL
-* MySQL
-* Git/GitHub
+* React
+* REST APIs
 
-**Machine Learning & Data Science**
+---
 
+### ❤️ HRV Biomarker Research — Machine Learning & Biomedical Data Analysis
+
+A machine learning research project focused on analyzing Heart Rate Variability (HRV) data to identify physiological patterns and develop predictive models.
+
+The project involved processing ECG signals, building machine learning pipelines, and evaluating deep learning approaches for biomedical applications.
+
+**Technologies:**
+
+* Python
 * TensorFlow
 * PyTorch
-* scikit-learn
 * Pandas
 * NumPy
-* Jupyter
+* scikit-learn
+* Jupyter Notebook
 
-**Tools**
+---
 
-* Linux
-* AWS
-* VS Code
+### 🔋 Electric Vehicle Conversion — Embedded Systems Project
 
-## 📌 Featured Projects
+A software and hardware integration project focused on converting a gasoline-powered vehicle into an electric vehicle.
 
-### 📈 TradeWise
+Developed embedded software to collect vehicle data, communicate with hardware components, and monitor system performance during testing.
 
-A stock portfolio management application focused on tracking investments and managing financial data.
+**Technologies:**
 
-### ❤️ HRV Biomarker Research
+* C++
+* Arduino
+* Embedded Systems
+* Git/GitHub
 
-Machine learning research project analyzing Heart Rate Variability data using deep learning models for biomedical pattern recognition.
+---
 
-### 🔋 Electric Vehicle Conversion
+### 🌐 Mihrab Network — Full-Stack Application
 
-Software and embedded systems project focused on converting a gasoline vehicle into an electric vehicle using C++ and Arduino.
+A full-stack application built to connect users with religious organizations and community resources.
 
-### 🌐 Mihrab Network
+Worked on developing application features, implementing the technical foundation, and collaborating on building a scalable platform.
 
-A full-stack application connecting users with religious organizations and community services.
+**Technologies:**
 
-## 🤝 Connect With Me
+* TypeScript
+* Java
+* Express.js
+* Git/GitHub
+
+---
+
+## 📫 Connect With Me
 
 * LinkedIn: linkedin.com/in/fuzailali
 * Email: [alifuzail5@gmail.com](mailto:alifuzail5@gmail.com)
