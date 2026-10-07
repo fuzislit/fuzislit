@@ -6,11 +6,22 @@ I enjoy exploring different areas of computer science, from full-stack applicati
 
 * 💻 **Interests:** Software Development, Machine Learning, Data Science, and Systems
 * 🛠️ **Languages:** Python, Java, C++, JavaScript, TypeScript, and SQL
-* 🚀 **Currently building:** TradeWise, a stock portfolio management application
+* 🚀 **Recently built:** InsightIQ, an LLM-powered data analytics platform
 * 🎓 **Education:** Computer Science, Rutgers University
 * 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/fuzailali) · [Email](mailto:alifuzail5@gmail.com)
 
 ## 🚀 Featured Projects
+
+### 🧠 InsightIQ — LLM-Powered Data Analytics Platform
+
+A full-stack data analytics application that allows users to upload CSV datasets and explore their data using natural-language questions.
+
+* Built an LLM-powered workflow that converts natural-language questions into structured analysis operations.
+* Developed Python and Pandas-based data processing for filtering, grouping, and statistical analysis.
+* Integrated OpenAI GPT-5 mini for natural-language intent interpretation.
+* Built a React and TypeScript frontend with interactive data visualizations.
+
+**Technologies:** Python · Pandas · FastAPI · OpenAI API · React · TypeScript · Recharts
 
 ### 📈 TradeWise — Stock Portfolio Management Application
 
@@ -59,4 +70,3 @@ I'm always interested in exploring new technologies, collaborating on meaningful
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/fuzailali)
 * 📧 [Email](mailto:alifuzail5@gmail.com)
-* 💻 [GitHub Repositories](https://github.com/fuzislit)
