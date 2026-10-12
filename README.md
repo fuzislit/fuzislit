@@ -67,7 +67,7 @@ Worked on a research project exploring machine learning approaches to heart rate
 
 ### 🔋 Electric Vehicle Conversion — Embedded Systems
 
-**Focus:** Embedded Software · Hardware Integration
+**Focus:** Embedded Software · Software-Hardware Integration
 
 Collaborated on converting a gasoline-powered vehicle to electric power as part of a multidisciplinary engineering team.
 
